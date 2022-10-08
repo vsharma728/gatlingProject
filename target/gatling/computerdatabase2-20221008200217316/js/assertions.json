@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.ComputerDatabase2",
+  "simulationId": "computerdatabase2",
+  "start": 1665259337316,
+  "description": "adding new computer info in db",
+  "scenarios": ["ComputerDatabase2"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "com.orangeHrmApp.OrangeHrmUsingHttpProxy2",
+  "simulationId": "orangehrmusinghttpproxy2",
+  "start": 1665265358807,
+  "description": "Login, Search all Admins, Logout",
+  "scenarios": ["OrangeHrmUsingHttpProxy2"],
+  "assertions": [
+
+  ]
+}

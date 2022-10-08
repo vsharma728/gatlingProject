@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.ComputerDatabase2	computerdatabase2	1665259337316	adding new computer info in db	3.3.1
+USER	ComputerDatabase2	1	START	1665259338573	1665259338573
+REQUEST	1		request_0	1665259338602	1665259338783	OK	 
+USER	ComputerDatabase2	1	END	1665259338573	1665259338840
